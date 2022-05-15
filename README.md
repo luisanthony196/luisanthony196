@@ -26,3 +26,9 @@ I code with :  👇
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="luisanthony196's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisanthony196&langs_count=8&layout=compact&theme=tokyonight" height="192px"/></a>
   <br/>
 </details>
+
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <br/>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="luisanthony196's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=luisanthony196&theme=react-dark" /></a>
+</details>
